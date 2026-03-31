@@ -23,7 +23,7 @@ Task 3 – Coding & Collaboration Platforms
 
 Completed a beginner coding challenge on an online coding platform and created a Google Form quiz for digital literacy awareness.
 
-Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfTCBgmmrwFIC12elExRSaNxr1Gt2lXEErW7I_M4wd1aftj0A/viewform?usp=header
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScKpNh7beI0sYM3t1UHXcUstfG_-4Tkk-wBb9y59YlsDFmYgw/viewform?usp=publish-editor
 
 Task 4 – Email Etiquette & Social Media Guidelines
 
