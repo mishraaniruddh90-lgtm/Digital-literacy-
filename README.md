@@ -3,7 +3,7 @@ project for digital literacy
 #Digital Literacy Portfolio – CSE0001
 Student Information
 
-Name: Ayush Chand Registration Number: 25BAI10717 Branch: BTech Artificial Intelligence and Machine Learning University: VIT Bhopal University Course: CSE0001 – Digital Literacy
+Name: Aniruddh mishra  Registration Number: 25BCE11183 Branch: BTech Artificial Intelligence and Machine Learning University: VIT Bhopal University Course: CSE0001 – Digital Literacy
 
 Project Overview
 
